@@ -147,6 +147,6 @@ This project is licensed under the **MIT License** – feel free to use, modify,
 ## 🙏 Acknowledgements
 
 - Dataset: [Iris Dataset – UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)  
-- Developed by **AdnanAltimeemy**  
+- Developed by **Adnan Altimeemy**  
   Data Sciencist and Educator
   Educational purpose: introducing students to applied machine learning through Python.
